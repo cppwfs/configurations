@@ -1,5 +1,5 @@
 server:
-  port: 9393
+  port: 9898
 management:
   contextPath: /management
 security:
