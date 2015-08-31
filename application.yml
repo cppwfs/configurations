@@ -7,9 +7,10 @@ spring:
   hadoop:
     resourceManagerHost: localhost
   datasource:
-#    url: jdbc:hsqldb:hsql://asdfas:9101
+    url: jdbc:postgresql:glennrenfro
+    username: glennrenfro
 #    password: oogabooga
-#    driverClassName: org.postgresql.Driver
+    driverClassName: org.postgresql.Driver
 fixedDelay: 1000
 thevalueyouseek: base
 format: yyyy
