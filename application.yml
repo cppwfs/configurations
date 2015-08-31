@@ -13,4 +13,4 @@ thevalueyouseek: base
 format: yyyy
 spring:
   datasource:
-    driverClassName=org.postgresql.Driver
+    driverClassName: org.postgresql.Driver
