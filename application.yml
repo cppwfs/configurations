@@ -10,3 +10,4 @@ spring:
     resourceManagerHost: localhost
 fixedDelay: 1000
 thevalueyouseek: base
+format: yyyy
