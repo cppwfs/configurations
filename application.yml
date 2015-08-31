@@ -8,10 +8,9 @@ security:
 spring:
   hadoop:
     resourceManagerHost: localhost
+  datasource:
+    driverClassName: org.postgresql.Driver
 fixedDelay: 1000
 thevalueyouseek: base
 format: yyyy
-spring:
-  datasource:
-    driverClassName: org.postgresql.Driver
 
