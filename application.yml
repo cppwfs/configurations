@@ -1,5 +1,3 @@
-server:
-  port: 9393
 management:
   contextPath: /management
 security:
@@ -9,7 +7,7 @@ spring:
   hadoop:
     resourceManagerHost: localhost
   datasource:
-    url: jdbc:hsqldb:hsql://asdfas:9101
+#    url: jdbc:hsqldb:hsql://asdfas:9101
 #    password: oogabooga
 #    driverClassName: org.postgresql.Driver
 fixedDelay: 1000
