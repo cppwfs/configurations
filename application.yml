@@ -15,5 +15,5 @@ spring:
     driverClassName: org.postgresql.Driver
 fixedDelay: 1000
 thevalueyouseek: base
-format: yyyy
+format: yyyy--
 
